@@ -5,7 +5,7 @@
 ![Mijn Afbeelding](https://github.com/Vindevoghel/markdown/blob/master/myimage.jpg  "Mijn Afbeelding")
 
 
-##Me
+## Me
 
 |Short               |Summary             |
 |--------------------|--------------------|
@@ -15,4 +15,6 @@
 |Favourite food:     |Hamburger		  |
 |Pineapple on pizza: |[ ] Yes [x] Hell No |
 
-##Hobbies
+## Hobbies
+
+* 
