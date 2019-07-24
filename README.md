@@ -4,12 +4,13 @@
 
 
 ##Me
+
+|Short               |Summary             |
 |--------------------|--------------------|
 |Birthday:	     |09/08		  |
 |Gender:	     |Male		  |
 |Favourite color:    |Green		  |
 |Favourite food:     |Hamburger		  |
 |Pineapple on pizza: |[ ] Yes [x] Hell No |
-|-----------------------------------------|
 
 ##Hobbies
