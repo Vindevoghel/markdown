@@ -30,5 +30,6 @@ If I **can** help you with something, I will.
 
 ## A funny story
 
+### TL;DR
 
-
+<< [Loïc Van Rompaey](http://github.com) || Yannick Vindevoghel || [Anastasiya Vyprytska](http://github.com) >>
