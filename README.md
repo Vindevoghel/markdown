@@ -13,7 +13,7 @@
 |Gender:	           |Male          		  |
 |Favourite color:    |Green		            |
 |Favourite food:     |Hamburger		        |
-|Pineapple on pizza: | :heavy_check_mark: Yes :x: Hell No |
+|Pineapple on pizza: | :x: Yes :heavy_check_mark: Hell No |
 
 ## Hobbies
 
