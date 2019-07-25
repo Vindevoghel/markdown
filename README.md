@@ -41,4 +41,4 @@ When I first met my current girlfriend, we went to a concert together and I got 
 
 I lose everything and will probably miss class at some point cause I either locked myself in or out of my apartment
 
-<< [Loïc Van Rompaey](https://github.com/LoicVanRompaey/challenge-repository-Lo-c/blob/master/charactersheet.md) || Yannick Vindevoghel || [Anastasiya Vyprytska](http://github.com) >>
+<< [Loïc Van Rompaey](https://github.com/LoicVanRompaey/challenge-repository-Lo-c/blob/master/charactersheet.md) || Yannick Vindevoghel || [Anastasiya Vyprytska](https://github.com/Anastasiyavyp/markdown/blob/master/Markdown.md) >>
