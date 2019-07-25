@@ -30,6 +30,15 @@ If I **can** help you with something, I will.
 
 ## A funny story
 
+When I first met my current girlfriend, we went to a concert together and I got a locker to put our coats in. It was quite chilly by the time I realised:
+
+    1. I lost the keys.
+    2. There was no bus connection home.
+    3. Uber doesn't exist here.
+    
+
 ### TL;DR
+
+I lose everything and will probably miss class at some point cause I either locked myself in or out of my apartment
 
 << [Loïc Van Rompaey](http://github.com) || Yannick Vindevoghel || [Anastasiya Vyprytska](http://github.com) >>
