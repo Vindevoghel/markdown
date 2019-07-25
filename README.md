@@ -32,7 +32,7 @@ If I **can** help you with something, I will.
 
 When I first met my current girlfriend, we went to a concert together and I got a locker to put our coats in. It was quite chilly by the time I realised:
 
-    1. I lost the keys.
+    1. I lost the keys to the locker.
     2. There was no bus connection home.
     3. Uber doesn't exist here.
     
